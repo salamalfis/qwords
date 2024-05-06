@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Qwords.com: Cloud Web Hosting Indonesia Akses Cepat Aman</title>
-    <link rel="icon" href="{{ asset('public\img\logo2.png') }}" sizes="192x192">
+    <link rel="icon" href="{{ asset('img/logo2.png') }}" sizes="192x192">
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
@@ -24,7 +24,7 @@
     <nav class="navbar navbar-expand-xl sticky-top bg-transparent py-0 py-xl-3" id="mainNavBar">
         <div class="container-fluid ">
             <a class="navbar-brand nav-brand-custom w-200px text-start text-md-center ms-5" href="/">
-                <img data-no-lazy="1" src="{{ asset('public\img\logo1.webp') }}" alt="qwords.webp" width="140px"
+                <img data-no-lazy="1" src="{{ asset('img/logo1.webp') }}" alt="qwords.webp" width="140px"
                     height="55px">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
@@ -221,7 +221,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\disk.webp') }}" loading="lazy" alt="disk.webp"
+                                            src="{{ asset('img/disk.webp') }}" loading="lazy" alt="disk.webp"
                                             width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -232,7 +232,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\bandwidth.webp') }}" loading="lazy"
+                                            src="{{ asset('img/bandwidth.webp') }}" loading="lazy"
                                             alt="Bandwidth.webp" width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -243,7 +243,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\cpu.webp') }}" loading="lazy" alt="core.webp"
+                                            src="{{ asset('img/cpu.webp') }}" loading="lazy" alt="core.webp"
                                             width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -254,8 +254,8 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\addon.webp') }}" alt="addon.webp"
-                                            width="36px" height="36px">
+                                            src="{{ asset('img/addon.webp') }}" alt="addon.webp" width="36px"
+                                            height="36px">
                                     </div>
                                     <div class="label-spec">
                                         <div>Addon / parked domain</div>
@@ -284,7 +284,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\disk.webp') }}" loading="lazy" width="36px"
+                                            src="{{ asset('img/disk.webp') }}" loading="lazy" width="36px"
                                             height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -295,7 +295,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\bandwidth.webp') }}" loading="lazy"
+                                            src="{{ asset('img/bandwidth.webp') }}" loading="lazy"
                                             alt="Bandwidth.webp" width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -306,7 +306,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\cpu.webp') }}" loading="lazy" alt="core.webp"
+                                            src="{{ asset('img/cpu.webp') }}" loading="lazy" alt="core.webp"
                                             width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -317,8 +317,8 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\addon.webp') }}" alt="addon.webp"
-                                            width="36px" height="36px">
+                                            src="{{ asset('img/addon.webp') }}" alt="addon.webp" width="36px"
+                                            height="36px">
                                     </div>
                                     <div class="label-spec">
                                         <div>Addon / parked domain</div>
@@ -346,7 +346,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\disk.webp') }}" loading="lazy" width="36px"
+                                            src="{{ asset('img/disk.webp') }}" loading="lazy" width="36px"
                                             height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -357,7 +357,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\bandwidth.webp') }}" loading="lazy"
+                                            src="{{ asset('img/bandwidth.webp') }}" loading="lazy"
                                             alt="Bandwidth.webp" width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -368,7 +368,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\cpu.webp') }}" loading="lazy" alt="core.webp"
+                                            src="{{ asset('img/cpu.webp') }}" loading="lazy" alt="core.webp"
                                             width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -379,8 +379,8 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\addon.webp') }}" alt="addon.webp"
-                                            width="36px" height="36px">
+                                            src="{{ asset('img/addon.webp') }}" alt="addon.webp" width="36px"
+                                            height="36px">
                                     </div>
                                     <div class="label-spec">
                                         <div>Addon / parked domain</div>
@@ -408,7 +408,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\disk.webp') }}" loading="lazy" width="36px"
+                                            src="{{ asset('img/disk.webp') }}" loading="lazy" width="36px"
                                             height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -419,7 +419,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\bandwidth.webp') }}" loading="lazy"
+                                            src="{{ asset('img/bandwidth.webp') }}" loading="lazy"
                                             alt="Bandwidth.webp" width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -430,7 +430,7 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\cpu.webp') }}" loading="lazy" alt="core.webp"
+                                            src="{{ asset('img/cpu.webp') }}" loading="lazy" alt="core.webp"
                                             width="36px" height="36px">
                                     </div>
                                     <div class="label-spec">
@@ -441,8 +441,8 @@
                                 <div class="d-flex align-items-center mt-3">
                                     <div class="icon-wrapper me-3 mb-2">
                                         <img data-lazyloaded="1" data-placeholder-resp="36pxx36px"
-                                            src="{{ asset('public\img\addon.webp') }}" alt="addon.webp"
-                                            width="36px" height="36px">
+                                            src="{{ asset('img/addon.webp') }}" alt="addon.webp" width="36px"
+                                            height="36px">
                                     </div>
                                     <div class="label-spec">
                                         <div>Addon / parked domain</div>
@@ -475,7 +475,7 @@
                             <div class="card-heading d-flex align-items-center mb-3">
                                 <div class="icon-wrapper me-2">
                                     <img data-lazyloaded="1" data-placeholder-resp="36px36px"
-                                        src="{{ asset('public\img\ssl.webp') }}" loading="lazy" alt="ssl.webp"
+                                        src="{{ asset('img/ssl.webp') }}" loading="lazy" alt="ssl.webp"
                                         width="36px" height="36px">
                                 </div>
                                 <h3 class="mb-0 fw-bold  ">SSL</h3>
@@ -502,8 +502,8 @@
                         <div class="card border-0 shadow p-3 rounded-card">
                             <div class="card-heading d-flex align-items-center mb-3">
                                 <div class="icon-wrapper me-2">
-                                    <img loading="lazy" src="{{ asset('public\img\dbstack.webp') }}"
-                                        alt="Dedicated.webp" width="36px" height="36px">
+                                    <img loading="lazy" src="{{ asset('img/dbstack.webp') }}" alt="Dedicated.webp"
+                                        width="36px" height="36px">
                                 </div>
                                 <h3 class="mb-1 fw-bold ">Dedicated Server</h3>
                             </div>
@@ -529,7 +529,7 @@
                         <div class="card border-0 shadow p-3 rounded-card">
                             <div class="card-heading d-flex align-items-center mb-3">
                                 <div class="icon-wrapper me-2">
-                                    <img loading="lazy" src="{{ asset('public\img\disk.webp') }}" alt="disk.webp"
+                                    <img loading="lazy" src="{{ asset('img/disk.webp') }}" alt="disk.webp"
                                         width="36px" height="36px">
                                 </div>
                                 <h3 class="mb-0 fw-bold ">Colocation Server</h3>
@@ -589,7 +589,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="100%x280"
-                                                        src="{{ asset('public\img\company.webp') }}">
+                                                        src="{{ asset('img/company.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Perusahaan</h4>
                                                         <p class="card-text">Wujudkan website perusahaan profesional
@@ -601,7 +601,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="umkm.webp"
-                                                        src="{{ asset('public\img\umkm.webp') }}">
+                                                        src="{{ asset('img/umkm.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">UMKM dan Toko Online</h4>
                                                         <p class="card-text">Memberikan hosting terbaik untuk mendukung
@@ -612,7 +612,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="organisasi"
-                                                        src="{{ asset('public\img\orgs.webp') }}">
+                                                        src="{{ asset('img/orgs.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Organisasi dan Komunitas</h4>
                                                         <p class="card-text">Bikin website organisasi atau komunitas
@@ -627,7 +627,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="sekolah"
-                                                        src="{{ asset('public\img\school.webp') }}">
+                                                        src="{{ asset('img/school.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Sekolah</h4>
                                                         <p class="card-text">Infrastruktur web hosting terbaik untuk
@@ -639,7 +639,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="organisasi"
-                                                        src="{{ asset('public\img\dev.webp') }}">
+                                                        src="{{ asset('img/dev.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Developer</h4>
                                                         <p class="card-text">Tersedia paket hosting Indonesia dengan
@@ -651,7 +651,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="organisasi"
-                                                        src="{{ asset('public\img\blog.webp') }}">
+                                                        src="{{ asset('img/blog.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Blogger dan Personal</h4>
                                                         <p class="card-text">Memfasilitasi blogger dengan infrastruktur
@@ -701,7 +701,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="Layanan 24/7" width="100px"
-                                                        height="100px" src="{{ asset('public\img\call.webp') }} ">
+                                                        height="100px" src="{{ asset('img/call.webp') }} ">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Layanan 24/7</h4>
                                                         <p class="card-text">Tim Technical Support dan Customer Service
@@ -715,7 +715,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="manualbook" width="100px"
-                                                        height="100px" src="{{ asset('public\img\book.webp') }}">
+                                                        height="100px" src="{{ asset('img/book.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Panduan Manual Lengkap</h4>
                                                         <p class="card-text">Qwords dilengkapi dengan halaman knowledge
@@ -729,7 +729,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="router" width="100px"
-                                                        height="100px" src="{{ asset('public\img\router.webp') }}">
+                                                        height="100px" src="{{ asset('img/router.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Up time 99.99%</h4>
                                                         <p class="card-text">Uptime Network & Server di atas 99. 99%
@@ -749,7 +749,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="jaminan" width="100px"
-                                                        height="100px" src="{{ asset('public\img\guard.webp') }}">
+                                                        height="100px" src="{{ asset('img/guard.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Jaminan keamanan</h4>
                                                         <p class="card-text">Keamanan menjadi fokus utama kami di
@@ -763,8 +763,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="dns" width="100px"
-                                                        height="100px"
-                                                        src="{{ asset('public\img\networkAlt.webp') }}">
+                                                        height="100px" src="{{ asset('img/networkAlt.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Clustered DNS</h4>
                                                         <p class="card-text">DNS Server Cloud Hosting Qwords terhubung
@@ -778,7 +777,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="enterprise server" width="100px"
-                                                        height="100px" src="{{ asset('public\img\diamond.webp') }}">
+                                                        height="100px" src="{{ asset('img/diamond.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">High Enterprise Server</h4>
                                                         <p class="card-text">Standar server Qwords adalah server kelas
@@ -795,7 +794,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3">
                                                     <img class="img-fluid" alt="tier 1" width="100px"
-                                                        height="100px" src="{{ asset('public\img\router.webp') }}">
+                                                        height="100px" src="{{ asset('img/router.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Tier 1 Network</h4>
                                                         <p class="card-text">Tier 1 Network merupakan jaringan dunia
@@ -810,7 +809,7 @@
                                             <div class="col-md-4 mb-3">
                                                 <div class="card" style="background-color: #fff8f3 ">
                                                     <img class="img-fluid" alt="peering" width="100px"
-                                                        height="100px" src="{{ asset('public\img\network.webp') }}">
+                                                        height="100px" src="{{ asset('img/network.webp') }}">
                                                     <div class="card-body">
                                                         <h4 class="card-title">Peering Network</h4>
                                                         <p class="card-text">Jaringan di Qwords terhubung langsung ke
@@ -837,7 +836,7 @@
                         <div class="col-12 col-sm-5 col-lg-5 col-xxl-5 mb-3 mb-lg-0">
                             <div class="img-wrapper mx-auto">
                                 <img data-lazyloaded="1" data-placeholder-resp="365pxx350px"
-                                    src="{{ asset('public\img\bw.webp') }}" alt="Jasa pembuatan website profesional"
+                                    src="{{ asset('img/bw.webp') }}" alt="Jasa pembuatan website profesional"
                                     width="365px" height="350px">
                             </div>
                         </div>
@@ -869,23 +868,23 @@
                     <div class="col-12 text-center">
                         <div class="image-list">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\Cimory.webp') }}" loading="lazy" alt="Cimory"
+                                src="{{ asset('img/Cimory.webp') }}" loading="lazy" alt="Cimory" width="200px"
+                                height="85px">
+                            <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
+                                src="{{ asset('img/Forisa.webp') }}" loading="lazy" alt="Forisa" width="200px"
+                                height="85px">
+                            <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
+                                src="{{ asset('img/Elsheskin.webp') }}" loading="lazy" alt="Elsheskin"
                                 width="200px" height="85px">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\Forisa.webp') }}" loading="lazy" alt="Forisa"
-                                width="200px" height="85px">
+                                src="{{ asset('img/icon.webp') }}" loading="lazy" alt="Icon +" width="200px"
+                                height="85px">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\Elsheskin.webp') }}" loading="lazy" alt="Elsheskin"
-                                width="200px" height="85px">
+                                src="{{ asset('img/horison.webp') }}" loading="lazy" alt="Horison" width="200px"
+                                height="85px">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\icon.webp') }}" loading="lazy" alt="Icon +"
-                                width="200px" height="85px">
-                            <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\horison.webp') }}" loading="lazy" alt="Horison"
-                                width="200px" height="85px">
-                            <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\md.webp') }}" loading="lazy" alt="MD Pictures"
-                                width="200px" height="85px">
+                                src="{{ asset('img/md.webp') }}" loading="lazy" alt="MD Pictures" width="200px"
+                                height="85px">
                         </div>
 
                     </div>
@@ -897,20 +896,20 @@
                     <div class="col-12 text-center">
                         <div class="image-list">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\Google.webp') }}" loading="lazy" alt="Google Cloud"
+                                src="{{ asset('img/Google.webp') }}" loading="lazy" alt="Google Cloud"
                                 width="200px" height="85px">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\Cpanel.webp') }}" loading="lazy" alt="Cpanel"
-                                width="200px" height="85px">
+                                src="{{ asset('img/Cpanel.webp') }}" loading="lazy" alt="Cpanel" width="200px"
+                                height="85px">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\Idea.webp') }}" loading="lazy" alt="Idea"
-                                width="200px" height="85px">
+                                src="{{ asset('img/Idea.webp') }}" loading="lazy" alt="Idea" width="200px"
+                                height="85px">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\Archi.webp') }}" loading="lazy" alt="Archi"
-                                width="200px" height="85px">
+                                src="{{ asset('img/Archi.webp') }}" loading="lazy" alt="Archi" width="200px"
+                                height="85px">
                             <img data-lazyloaded="1" data-placeholder-resp="200pxx85px"
-                                src="{{ asset('public\img\dotid.webp') }}" loading="lazy" alt="dotid"
-                                width="200px" height="85px">
+                                src="{{ asset('img/dotid.webp') }}" loading="lazy" alt="dotid" width="200px"
+                                height="85px">
                         </div>
 
                     </div>
@@ -937,7 +936,7 @@
                         <div class="col-12 col-sm-5 col-lg-6 col-xxl-5 mb-3 mb-lg-0">
                             <div class="img-wrapper mx-auto">
                                 <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                    src="{{ asset('public\img\guarantee.webp') }}" loading="lazy" width="100%"
+                                    src="{{ asset('img/guarantee.webp') }}" loading="lazy" width="100%"
                                     height="100%">
                             </div>
                         </div>
@@ -986,7 +985,7 @@
                     <div class="order-1 order-lg-2 col-12 order-lg-2 col-lg-6 mb-3 mb-lg-5">
                         <div class="img-wrapper mx-auto rounded-4 p-3">
                             <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                src="{{ asset('public\img\testi1.webp') }}" loading="lazy" alt="testi1.webp"
+                                src="{{ asset('img/testi1.webp') }}" loading="lazy" alt="testi1.webp"
                                 width="100%" height="100%">
                         </div>
                     </div>
@@ -1023,7 +1022,7 @@
                     <div class="order-1 order-lg-1 col-12 col-lg-6">
                         <div class="img-wrapper mx-auto rounded-4 p-3">
                             <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                src="{{ asset('public\img\testi2.webp') }}" loading="lazy" alt="testi2.webp"
+                                src="{{ asset('img/testi2.webp') }}" loading="lazy" alt="testi2.webp"
                                 width="100%" height="100%">
                         </div>
                     </div>
@@ -1058,7 +1057,7 @@
                     <div class="order-1 order-lg-2 col-12 col-lg-6">
                         <div class="img-wrapper mx-auto rounded-4 p-3">
                             <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                src="{{ asset('public\img\testi3.webp') }}" loading="lazy" alt="testi3.webp"
+                                src="{{ asset('img/testi3.webp') }}" loading="lazy" alt="testi3.webp"
                                 width="100%" height="100%">
                         </div>
                     </div>
@@ -1100,7 +1099,7 @@
                     <div class="col-12 text-center">
                         <div class="img-wrapper">
                             <img data-lazyloaded="1" data-placeholder-resp="all-payment.webp"
-                                src="{{ asset('public\img\all-payment.webp') }}" loading="lazy" alt="payment.webp"
+                                src="{{ asset('img/all-payment.webp') }}" loading="lazy" alt="payment.webp"
                                 width="100%" height="100%">
                         </div>
                         <div class="mt-4">
@@ -1307,15 +1306,15 @@
                                 style="background-color: #FF9130; color: #fff8f3">
                                 <div class="contact-col d-flex align-items-center">
                                     <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                        src="{{ asset('public\img\phoneAlt.svg') }}" loading="lazy"
-                                        alt="phone2.webp" class="me-2" width="30px" height="30px">
+                                        src="{{ asset('img/phoneAlt.svg') }}" loading="lazy" alt="phone2.webp"
+                                        class="me-2" width="30px" height="30px">
                                     <p class="mb-0 ">0804-1-808-888</p>
                                 </div>
                                 <a class="btn btn-cta rounded-5 fw-bold px-3"
                                     style="background-color: #FF9130; color: #fff8f3">
                                     <div class="contact-col d-flex align-items-center">
                                         <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                            src="{{ asset('public\img\phoneAlt.svg') }}" loading="lazy"
+                                            src="{{ asset('img/phoneAlt.svg') }}" loading="lazy"
                                             alt="phone2.webp" class="me-2" width="30px" height="30px">
                                         <p class="mb-0 ">021 39708800</p>
                                     </div>
@@ -1326,8 +1325,8 @@
                                 href="https://api.whatsapp.com/send?phone=62817437111">
                                 <div class="contact-col d-flex align-items-center ">
                                     <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                        src="{{ asset('public\img\waAlt.svg') }}" loading="lazy"
-                                        alt="Whatsapp.webp" class="me-2" width="30px" height="30px">
+                                        src="{{ asset('img/waAlt.svg') }}" loading="lazy" alt="Whatsapp.webp"
+                                        class="me-2" width="30px" height="30px">
                                     <p class="mb-0 ">+6281 7437 111 ( WhatsApp only )</p>
                                 </div>
                             </a>
@@ -1335,8 +1334,8 @@
                                 style="background-color: #FF9130; color: #fff8f3" href="mailto:info@qwords.com">
                                 <div class="contact-col d-flex align-items-center">
                                     <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                        src="{{ asset('public\img\emailAlt.svg') }}" loading="lazy"
-                                        alt="Email.webp" class="me-2" width="30px" height="30px">
+                                        src="{{ asset('img/emailAlt.svg') }}" loading="lazy" alt="Email.webp"
+                                        class="me-2" width="30px" height="30px">
                                     <p class="mb-0 ">info@qwords.com</p>
                                 </div>
                             </a>
@@ -1355,7 +1354,7 @@
                     <div id="begin-logo" class="mb-5">
                         <div class="qw-logo">
                             <img data-lazyloaded="1" data-placeholder-resp="190pxx80"
-                                src="{{ asset('public\img\logo-dark.webp') }}" loading="lazy" alt="qwords.webp"
+                                src="{{ asset('img/logo-dark.webp') }}" loading="lazy" alt="qwords.webp"
                                 width="190px" height="80">
                         </div>
                         <div class="mt-3 mt-lg-4">
@@ -1371,7 +1370,7 @@
                             href="https://www.bsigroup.com/en-ID/validate-bsi-issued-certificates/client-directory-certificate/IS%20776219">
                             <div class="qw-logo">
                                 <img data-lazyloaded="1" data-placeholder-resp="395pxx100px"
-                                    src="{{ asset('public\img\bsi.webp') }}" loading="lazy" alt="bsi.webp"
+                                    src="{{ asset('img/bsi.webp') }}" loading="lazy" alt="bsi.webp"
                                     width="205px" height="100px">
                             </div>
                         </a>
@@ -1491,7 +1490,7 @@
                             <a href="https://pse.kominfo.go.id/tdpse-detail/1447">
                                 <div class="me-3">
                                     <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                        src="{{ asset('public\img\code.webp') }}" loading="lazy" alt="code.webp"
+                                        src="{{ asset('img/code.webp') }}" loading="lazy" alt="code.webp"
                                         width="100%" height="100%">
                                 </div>
                             </a>
@@ -1499,28 +1498,28 @@
                                 href="https://www.icann.org/en/accredited-registrars?sort-direction=asc&sort-param=name&page=1&iana-number=4029&view-all=true">
                                 <div class="me-3">
                                     <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                        src="{{ asset('public\img\icann-logo.webp') }}" loading="lazy"
+                                        src="{{ asset('img/icann-logo.webp') }}" loading="lazy"
                                         alt="icann-logo.webp" width="100%" height="100%">
                                 </div>
                             </a>
                             <div class="me-3">
                                 <img data-lazyloaded="1" data-placeholder-resp="100pxx100px"
-                                    src="{{ asset('public\img\badge_litespeed.svg') }}" loading="lazy"
+                                    src="{{ asset('img/badge_litespeed.svg') }}" loading="lazy"
                                     alt="badge_litespeed.svg" width="100px" height="100px">
                             </div>
                             <div class="me-3">
                                 <img data-lazyloaded="1" data-placeholder-resp="100pxx100px"
-                                    src="{{ asset('public\img\badge_whmadmin.svg') }}" loading="lazy"
+                                    src="{{ asset('img/badge_whmadmin.svg') }}" loading="lazy"
                                     alt="badge_whmadmin.svg" width="100px" height="100px">
                             </div>
                             <div class="me-3">
                                 <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                    src="{{ asset('public\img\acronis-cloud-tech.webp') }}" loading="lazy"
+                                    src="{{ asset('img/acronis-cloud-tech.webp') }}" loading="lazy"
                                     alt="acronis-cloud-tech.webp" width="100%" height="100%">
                             </div>
                             <div class="me-3">
                                 <img data-lazyloaded="1" data-placeholder-resp="100%x100%"
-                                    src="{{ asset('public\img\acronis-cloud-sales.webp') }}" loading="lazy"
+                                    src="{{ asset('img/acronis-cloud-sales.webp') }}" loading="lazy"
                                     alt="acronis-cloud-sales.webp" width="100%" height="100%">
                             </div>
                         </div>
@@ -1534,29 +1533,29 @@
                             <a href="https://www.facebook.com/qwordsdotcom">
                                 <div class="social-icon">
                                     <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                        src="{{ asset('public\img\Facebook.webp') }}" loading="lazy"
-                                        alt="fb.webp" width="30px" height="30px">
+                                        src="{{ asset('img/Facebook.webp') }}" loading="lazy" alt="fb.webp"
+                                        width="30px" height="30px">
                                 </div>
                             </a>
                             <a href="https://www.instagram.com/qwordsdotcom/">
                                 <div class="social-icon">
                                     <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                        src="{{ asset('public\img\Instagram.webp') }}" loading="lazy"
-                                        alt="ig.webp" width="30px" height="30px">
+                                        src="{{ asset('img/Instagram.webp') }}" loading="lazy" alt="ig.webp"
+                                        width="30px" height="30px">
                                 </div>
                             </a>
                             <a href="https://twitter.com/qwordsdotcom">
                                 <div class="social-icon">
                                     <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                        src="{{ asset('public\img\Twitter.webp') }}" loading="lazy"
-                                        alt="twt.webp" width="30px" height="30px">
+                                        src="{{ asset('img/Twitter.webp') }}" loading="lazy" alt="twt.webp"
+                                        width="30px" height="30px">
                                 </div>
                             </a>
                             <a href="https://www.youtube.com/user/qwordsvideo">
                                 <div class="social-icon">
                                     <img data-lazyloaded="1" data-placeholder-resp="30pxx30px"
-                                        src="{{ asset('public\img\Youtube.webp') }}" loading="lazy"
-                                        alt="yt.webp" width="30px" height="30px">
+                                        src="{{ asset('img/Youtube.webp') }}" loading="lazy" alt="yt.webp"
+                                        width="30px" height="30px">
                                 </div>
                             </a>
                         </div>
