@@ -121,15 +121,11 @@ return [
     | will not be safe. Please do this before deploying an application!
     |
     */
-    'cipher' => 'AES-256-CBC',
 
     'key' => env('APP_KEY'),
 
-    'previous_keys' => [
-        ...array_filter(
-            explode(',', env('APP_PREVIOUS_KEYS', ''))
-        ),
-    ],
+    'cipher' => 'AES-256-CBC',
+
     /*
     |--------------------------------------------------------------------------
     | Maintenance Mode Driver
