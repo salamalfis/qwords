@@ -1088,7 +1088,6 @@
                 </div>
             </div>
         </section>
-
         <section id="payment" style="padding: 50px 112px">
             <div class="container-fluid">
                 <div class="row justify-content-center">
