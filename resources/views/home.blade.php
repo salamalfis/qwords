@@ -1,7 +1,3 @@
-<?php
-require __DIR__.'/../bootstrap/autoload.php';
-$app = require_once __DIR__.'/../bootstrap/app.php';
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +8,7 @@ $app = require_once __DIR__.'/../bootstrap/app.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Qwords.com: Cloud Web Hosting Indonesia Akses Cepat Aman</title>
-    <link rel="icon" href="{{ asset('img/logo2.png') }}" sizes="192x192">
+    <link rel="icon" href="{{ asset('/publicimg/logo2.png') }}" sizes="192x192">
     <!-- Fonts -->
     <link rel="dns-prefetch" href="htttps://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
