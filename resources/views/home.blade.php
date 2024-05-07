@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
+    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Qwords.com: Cloud Web Hosting Indonesia Akses Cepat Aman</title>
-    <link rel="icon" href="{{ asset('public/img/logo2.png') }}" sizes="192x192">
+    <link rel="icon" href="('/img/logo2.png')" sizes="192x192">
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
@@ -17,7 +19,7 @@
     <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js'>
     </script>
 
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+
 
 </head>
 
