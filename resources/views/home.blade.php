@@ -17,7 +17,7 @@
     <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js'>
     </script>
 
-    @vite(['resources\sass\app.scss', 'resources\js\app.js'])
+    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 
 </head>
 
